@@ -18,29 +18,9 @@ position: absolute;
 margin-top: 250px;
 right: 700px;
 }
-.fb{
-    width: 50px;
-    height: 50px;
-    margin-top: 670px;
-margin-left: 20px;
-border-radius: 40px;
-background: #9D7745;
-}
-.instagram{
-    width: 50px;
-    height: 50px;
-    margin-top: 670px;
-margin-left: 20px;
-border-radius: 40px;
-background: #9D7745;
-}
-.localisation{
-    width: 50px;
-    height: 50px;
-    margin-top: 670px;
-margin-left: 20px;
-border-radius: 50px;
-background: black;
+.reseaux{
+    width: 200px;
+    margin-top: 680px;
 }
 .road{
     width: 50px;
@@ -93,7 +73,7 @@ right: 650px;
 }
 .imgbar{
 height: 300px;
-width: 400px;
+width: 500px;
 }
 .description{
 font-size: large;
@@ -103,6 +83,34 @@ margin-top: -120px;
 .label{
 width: 150px;
 }
+.carousel{
+text-align: center;
+}
+.tamere{
+width: 200px;
+
+}
+.tamere2{
+    margin-top: 30px;
+ width: 10px; 
+left: 75%;
+position: absolute;
+}
+.tamere3{
+    margin-top: 30px;
+ width: 10px; 
+right: 75%;
+position: absolute;
+}
 .bacon{
-    text-align: center;
+    margin-top: 7%;
+    width:25%;   
+    position: absolute;
+}
+.prix{
+    margin-top: 15%;
+}
+.ingrédients{
+    margin-top: 7%;
+    margin-left: 70%;
 }
