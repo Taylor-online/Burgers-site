@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'alegreyaregular';
+    src: url('/medias/files/alegreya-regular-webfont.eot');
+    src: url('/medias/files/alegreya-regular-webfont.eot') format('embedded-opentype'),
+         url('/medias/files/alegreya-regular-webfont.woff') format('woff'),
+         url('/medias/files/alegreya-regular-webfont.ttf') format('truetype'),
+         url('/medias/files/alegreya-regular-webfont.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'goldrushregular';
+    src: url('rosewood-webfont.woff2') format('woff2'),
+         url('rosewood-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+    @font-face {
+    font-family: 'coffeetininitials';
+    src: url('coffeetin_initials-webfont.woff2') format('woff2'),
+         url('coffeetin_initials-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+color: #9D7745;    brown
