@@ -30,6 +30,8 @@ body{
 
 }
 
+
+
 .numéro{
 margin-top: 5%;
 }
@@ -92,6 +94,7 @@ margin-right: 300px;
     font-family: 'lucifer_sansexpanded_thin';
     margin-top: 570px;
     margin-right:320px;  
+    display: flex;
 }
 
 .time{
@@ -436,3 +439,42 @@ position: absolute;
     -webkit-transform: rotate(-15deg);
     transform: rotate(-15deg);
   }
+
+  @media screen and (max-width: 767px) {
+ 
+.logo {
+ width: auto ;
+}
+.imgfirst {
+width: auto ;
+}
+.pulse{
+    width: auto;
+    
+}
+.numéro{
+    margin-left: 155%;
+    width: 37%;
+  
+}
+.commande{
+    width: 60%;
+    margin-left: 37%;
+    margin-top: 15%;
+}
+.imgbar{
+    width: auto;
+}
+.description{
+    margin-top: 50%;
+    justify-content: center;
+    padding: 3%;
+}
+.label{
+    margin-left: -180px;
+}
+
+.ligne{
+    margin-top: -30%;
+}
+    }
